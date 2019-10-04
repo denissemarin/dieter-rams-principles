@@ -1,0 +1,165 @@
+body {
+	background-color: #F2F5FC;
+}
+h1 {
+	margin-bottom:0px;
+	font-size: 40px;
+	font-family: 'Asap:700', sans-serif;
+	margin-left: 35px;
+	color: #E50C83;
+}
+
+h2 {
+	margin-top: 0px;
+	font-size: 40px;
+	font-family: 'Asap:700', sans-serif;
+	margin-left: 35px;
+	margin-right: 510px;
+	color: #E50C83;
+	border-bottom: 9px solid black;
+}
+
+
+
+.list {
+	list-style: none;
+}
+
+.list-item {
+	display: flex;
+	margin-bottom: 20px;
+}
+
+img {
+	width: 28%;
+	height: 28%;
+}
+
+p{
+	font-size: 12px;
+	font-family: 'Asap:400', sans-serif;
+}
+.number {
+	font-family: 'Asap:400', sans-serif;
+	font-size: 45px;
+	font-weight: bold;
+	color: white;
+	margin-top: 18px;
+	margin-left:45px;
+	border-radius: 50%;
+	height: 80px;
+	width: 80px;
+	background-color: #00BCCA;
+	text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+}
+
+
+.principle {
+	font-size: 20px;
+	font-family: 'Asap:700', sans-serif;
+	color: #5042A5;
+	/* border: 1px solid black; */
+	margin-top: 19px;
+	margin-left: 40px;
+	flex-basis: 12%;
+}
+
+.interpretation {
+	font-family: 'Asap:400', sans-serif;
+	font-size: 20px;
+	margin-left: 80px;
+	flex-basis: 35%;
+
+}
+
+
+/* for mobile phones */
+@media screen and (max-width: 600px) {
+  body {
+    background-color: #F2F5FC;
+  }
+  h1 {
+  	margin-bottom:0px;
+  	font-size: 24px;
+  	font-family: 'Asap:700', sans-serif;
+  	margin-left: 35px;
+  	color: #E50C83;
+  }
+
+  h2 {
+  	margin-top: 0px;
+  	font-size: 24px;
+  	font-family: 'Asap:700', sans-serif;
+  	margin-left: 35px;
+  	margin-right: 10px;
+	margin-bottom:30px;
+  	color: #E50C83;
+  	border-bottom: 5px solid black;
+  }
+
+
+
+  .list {
+  	list-style: none;
+  }
+
+  .list-item {
+  	display: flex;
+  	margin-bottom: 20px;
+  }
+
+  img {
+  	width: 30%;
+  	height: 30%;
+	margin-top: 20px;
+  }
+
+  p{
+  	font-size: 8px;
+  	font-family: 'Asap:400', sans-serif;
+  }
+  .number {
+  	font-family: 'Asap:400', sans-serif;
+  	font-size: 20px;
+  	font-weight: bold;
+  	color: white;
+  	margin-top: 18px;
+  	margin-left:12px;
+  	border-radius: 50%;
+  	height: 50px;
+  	width: 50px;
+  	background-color: #00BCCA;
+  	text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+  }
+
+
+  .principle {
+  	font-size: 13px;
+  	font-family: 'Asap:700', sans-serif;
+  	color: #5042A5;
+  	/* border: 1px solid black; */
+  	margin-top: 19px;
+  	margin-left: 20px;
+  	flex-basis: 12%;
+  }
+
+  .interpretation {
+  	font-family: 'Asap:400', sans-serif;
+  	font-size: 13px;
+  	margin-left: 30px;
+  	flex-basis: 35%;
+}
+
+
+
+
+
+
+@media only screen and (max-width: 1023px) {
+	body {
+    background-color:
+  		}
